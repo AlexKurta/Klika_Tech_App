@@ -1,0 +1,10 @@
+export const LOAD_PLAYLIST = 'LOAD_PLAYLIST'
+export const FILTER_PLAYLIST = 'FILTER_PLAYLIST'
+export const SORT_PLAYLIST = 'SORT_PLAYLIST'
+export const CHANGE_PAGE_SIZE = 'CHANGE_PAGE_SIZE'
+export const CHANGE_PAGE = 'CHANGE_PAGE'
+export const NEXT_PAGE = 'NEXT_PAGE'
+
+export const START = '_START'
+export const SUCCESS = '_SUCCESS'
+export const FAIL = '_FAIL'
